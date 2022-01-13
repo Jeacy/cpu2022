@@ -9,19 +9,578 @@ z2
 !i10f 100
 cModel Technology
 dD:/modelsim/examples
+vALU
+Z0 !s110 1641869638
+!i10b 1
+!s100 c8H<Ti`bRM=D=i>SU]:JY1
+!s11b 5]BXLV:G^3S5^Qd=FQ5U@3
+IEE]EA8B@=mX93OmLcUf2^2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 de:/研一下/高体实验/高体实验zj？
+w1625642880
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\ALU.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\ALU.v
+L0 1
+Z3 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z4 !s108 1641869638.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\ALU.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\ALU.v|
+!i113 0
+Z5 o-nologo -work {C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+n@a@l@u
+valu
+Z7 !s110 1642077188
+!i10b 1
+!s100 QL@V><J^3WR1n49Zi]^=W3
+!s11b :dklW20V]]M[8lWnSR9WU2
+IQ:;aiDVoi<:MaoFC>OMUW1
+R1
+Z8 dc:/Users/Jeacy/Desktop/riscv-cpu_1221
+w1641905744
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\alu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\alu.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1642077188.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\alu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\alu.v|
+!i113 0
+R5
+R6
+vALUsrc1Fowarder
+!s110 1641826126
+!i10b 1
+!s100 ]@dc_N81kRTYM6`VT[M2`0
+!s11b THc5f_Qni0a[E]k@JggnV1
+I>EH2BA0`>VYGK4Oh6XmQ>1
+R1
+R8
+w1626187056
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc1Fowarder.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc1Fowarder.v
+Z10 L0 20
+R3
+r1
+!s85 0
+31
+!s108 1641826126.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc1Fowarder.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc1Fowarder.v|
+!i113 0
+R5
+R6
+n@a@l@usrc1@fowarder
+vALUsrc2Fowarder
+!s110 1641826127
+!i10b 1
+!s100 kAjYz6F<3:G<b1?R1cfPl1
+!s11b @Q2ZlV8QRhK61Fz3gMX3Q1
+IE?R92_=Z;>JW56LXaLT9Z0
+R1
+R8
+w1626187052
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Fowarder.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Fowarder.v
+R10
+R3
+r1
+!s85 0
+31
+Z11 !s108 1641826127.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Fowarder.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Fowarder.v|
+!i113 0
+R5
+R6
+n@a@l@usrc2@fowarder
+vALUsrc2Selector
+!s110 1641826128
+!i10b 1
+!s100 ATD85_z3:NemU9<QjoHC43
+!s11b H:^T1D:;ZI7i_adm4f>Xz3
+IWHcX=QBE=<clHLi?T8S`X1
+R1
+R8
+w1626187061
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Selector.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Selector.v
+R10
+R3
+r1
+!s85 0
+31
+R11
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Selector.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\ALUsrc2Selector.v|
+!i113 0
+R5
+R6
+n@a@l@usrc2@selector
+vbhazard
+R7
+!i10b 1
+!s100 ;Z;3k3z01=7Hz?UjP7gcb1
+!s11b d2048gK4ZbNa[TO>kP>aj1
+IV7D?MS2d6^__8[Ue?EhBf1
+R1
+R8
+w1627645094
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\bhazard.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\bhazard.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\bhazard.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\bhazard.v|
+!i113 0
+R5
+R6
+vbp
+!s110 1642040014
+!i10b 1
+!s100 J]Qg;Cb0>OkR9GknlaOi`1
+Z12 !s11b <]dGmH[JmGYYOzfzNTdFQ1
+IdhO<JO5A7c_z=D^gLdJid2
+R1
+R8
+w1641867890
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\branchpredictor.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\branchpredictor.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1642040014.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\branchpredictor.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\branchpredictor.v|
+!i113 0
+R5
+R6
+vbru
+!s110 1642078441
+!i10b 1
+!s100 ?VfMn5^<H_;K1^SZk>z5I3
+!s11b g_bZHnA2``i5334c5A8>41
+Ii;SRP05A]=6h@;kjo>9Zk3
+R1
+dc:/Users/Jeacy/Desktop/riscv-cpu_1221/core
+w1641974308
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\core\bru.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\core\bru.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1642078441.000000
+!s107 define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\core\bru.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\core\bru.v|
+!i113 0
+R5
+R6
+vBRU
+R0
+!i10b 1
+!s100 Rmba6:PLlab5^=a8K?GE32
+!s11b a3`:fHGzbfY3?c>eU^U^<1
+IMU4gTdZSOn2UHfZEn3[`Q0
+R1
+R2
+w1624932892
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\BRU.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\BRU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\BRU.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\BRU.v|
+!i113 0
+R5
+R6
+n@b@r@u
+vclkdivider
+Z13 !s110 1640767335
+!i10b 1
+!s100 E]`de;zRTg9j3iKBZ6KFf1
+!s11b a4gN;ED_Ve6DY[2ej1ai^1
+IcN[ZHG>]4@QUYZLeIa8Ya0
+R1
+R8
+Z14 w1640767307
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\nucleikit\src\clkdivider.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\nucleikit\src\clkdivider.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z15 !s108 1640767334.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\nucleikit\src\clkdivider.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\nucleikit\src\clkdivider.v|
+!i113 0
+R5
+R6
+vControl_Unit
+!s110 1641869639
+!i10b 1
+!s100 HS<=bS@c5OC9U1MQUcAlX0
+!s11b 3<LTEY2i[k>nfR9h68;_43
+IQ?QlF@3e`mHJUZDTC1^jg1
+R1
+R2
+w1626065904
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\Control_Unit.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\Control_Unit.v
+Z16 L0 22
+R3
+r1
+!s85 0
+31
+!s108 1641869639.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\Control_Unit.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\Control_Unit.v|
+!i113 0
+R5
+R6
+n@control_@unit
+vCSR
+Z17 !s110 1641869636
+!i10b 1
+!s100 <bB>6[Q:IP1MJC2;7Kdhj1
+!s11b azQ1E;2DYe`1=]T]LZ:kB2
+Idez8jkJ9fUP8[M;G@^6RH3
+R1
+R2
+w1625732624
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\CSR.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\CSR.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z18 !s108 1641869636.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\CSR.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\CSR.v|
+!i113 0
+R5
+R6
+n@c@s@r
+vDataMem
+!s110 1641869266
+!i10b 1
+!s100 cjo6LS8e:j;[OXEle5Q[:2
+!s11b D9femAJdB4WXi`eC[AhMR1
+ICK@0Faif`<Pd`PE=AGR502
+R1
+Z19 dc:/Users/Jeacy/Desktop/郑康组
+w1626187095
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\DataMem.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\DataMem.v
+R10
+R3
+r1
+!s85 0
+31
+!s108 1641869266.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\DataMem.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\DataMem.v|
+!i113 0
+R5
+R6
+n@data@mem
+vdecode
+!s110 1642076593
+!i10b 1
+!s100 c]VM2kCWTFO<N@ODbmN7g1
+!s11b ;HSXbX^2m8V<75B3:Rmh?1
+IFmmE9`fbP<jDQCRA]cU0:0
+R1
+R8
+w1642076592
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\decode.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\decode.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1642076592.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\decode.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\decode.v|
+!i113 0
+R5
+R6
+vDecoder
+!s110 1642061012
+!i10b 1
+!s100 :83G36D87G>gg>5@gYNPa1
+!s11b 7ERViXA7MlmnJiJ74UahU0
+Io7nB7[32njzWfdlggBRej0
+R1
+R19
+w1626187088
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\Decoder.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\Decoder.v
+R16
+R3
+r1
+!s85 0
+31
+!s108 1642061012.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\Decoder.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\Decoder.v|
+!i113 0
+R5
+R6
+n@decoder
+vdff32
+R17
+!i10b 1
+!s100 hL5EaZEKjEU1_D;2f3DWX3
+!s11b 8T4];bm]VR3iAXF2na]I71
+IkFU;UJ>bR88:Rb[UWcBNH2
+R1
+R2
+w1626073908
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\dff32.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\dff32.v
+Z20 L0 21
+R3
+r1
+!s85 0
+31
+R18
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\dff32.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\dff32.v|
+!i113 0
+R5
+R6
+ve203_biu
+R13
+!i10b 1
+!s100 dF`oB88_VRQOo?OGKbDma2
+!s11b dFQ3N[M`NVe0JX6dFC0jj3
+IgjS==5O1@;XUNo:fTB45i0
+R1
+R8
+Z21 w1640767310
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_biu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_biu.v
+Z22 L0 29
+R3
+r1
+!s85 0
+31
+Z23 !s108 1640767335.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_biu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_biu.v|
+!i113 0
+R5
+R6
+ve203_clk_ctrl
+!s110 1640790764
+!i10b 1
+!s100 hSJfoi1jTDlbUElGSY45O0
+!s11b jX@AfNRkoWMa037ANX30=0
+I6I@Fc3LlDPLnk54>UJB4T2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clk_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clk_ctrl.v
+Z24 L0 30
+R3
+r1
+!s85 0
+31
+!s108 1640790764.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clk_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clk_ctrl.v|
+!i113 0
+R5
+R6
+ve203_clkgate
+R13
+!i10b 1
+!s100 YzEhRUBl3BVif5TUlJ4KC2
+!s11b 137n9_TPLG<ZOiYbA]6Tn0
+IhQZAf=`26dJNV>h<m;A;G1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clkgate.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clkgate.v
+Z25 L0 28
+R3
+r1
+!s85 0
+31
+R23
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clkgate.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_clkgate.v|
+!i113 0
+R5
+R6
+ve203_core
+Z26 !s110 1640767340
+!i10b 1
+!s100 jQTU2a5c=A;k7ni]GJNDh0
+!s11b g_OV<;lQD7S7PTK3KO2=X2
+IEC5d2o1dHjzVm=o<z;FEU0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_core.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_core.v
+R24
+R3
+r1
+!s85 0
+31
+Z27 !s108 1640767340.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_core.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_core.v|
+!i113 0
+R5
+R6
+ve203_cpu
+R26
+!i10b 1
+!s100 JKiWm7Jk3h6;]oTkOR?HK0
+!s11b k1S45i]J0z=XDC1G>]X`g0
+I?E1EOgnBR3>>:<OOV;Pf^2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu.v
+R24
+R3
+r1
+!s85 0
+31
+R27
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu.v|
+!i113 0
+R5
+R6
+ve203_cpu_top
+Z28 !s110 1640767343
+!i10b 1
+!s100 <dae8O?a@zn>Ic>Yl15@91
+!s11b Ud=k4zTZ2k@FlAgDf`YO<0
+IazSQAojT>OES^dB0Tj@^92
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu_top.v
+R24
+R3
+r1
+!s85 0
+31
+Z29 !s108 1640767343.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_cpu_top.v|
+!i113 0
+R5
+R6
+ve203_dtcm_ctrl
+!s110 1640790753
+!i10b 1
+!s100 eHg?12gnQ>K>2KZ8GanzC1
+!s11b ]A:5<j;]nVgD_fk?zGYcA2
+IU1:@Lj6^jP6N]:G`nJT;S0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ctrl.v
+Z30 L0 31
+R3
+r1
+!s85 0
+31
+!s108 1640790752.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ctrl.v|
+!i113 0
+R5
+R6
+ve203_dtcm_ram
+Z31 !s110 1640767336
+!i10b 1
+!s100 _J3X5FSYE<TH@AHd;1AZd2
+!s11b >jEH?J_RTzh_OPz_@^G@R3
+I6cTPUEX6mJhG4ga5a3lE73
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ram.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ram.v
+Z32 L0 32
+R3
+r1
+!s85 0
+31
+R23
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ram.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_dtcm_ram.v|
+!i113 0
+R5
+R6
+ve203_extend_csr
+!s110 1640790531
+!i10b 1
+!s100 ?@HDgFl`55f5ZFnFjcjLe0
+!s11b 3]GGKNUde2?[5HFVYmcj_0
+IMc[^HI0OHo`D[S5hVA;ah2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_extend_csr.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_extend_csr.v
+R32
+R3
+r1
+!s85 0
+31
+!s108 1640790531.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_extend_csr.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_extend_csr.v|
+!i113 0
+R5
+R6
 ve203_exu
 !s110 1640765275
 !i10b 1
 !s100 ;>66Y:Kcl[i7Q^bLeZE:Q3
 !s11b 5:;GDgDoP[F?D]J5RzM7N2
 ITaZf37;m=dPdaSfB=aBh:1
-Z0 VDg1SIo80bB@j0V0VzS_@n1
-Z1 dc:/Users/Jeacy/Desktop/riscv-cpu_1221
-Z2 w1616578719
+R1
+R8
+Z33 w1616578719
 8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu.v
 Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu.v
-Z3 L0 29
-Z4 OL;L;2019.2;69
+R22
+R3
 r1
 !s85 0
 31
@@ -29,21 +588,439 @@ r1
 !s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu.v|
 !s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu.v|
 !i113 0
-Z5 o-nologo -work {C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-Z6 tCvgOpt 0
+R5
+R6
+ve203_exu_alu
+!s110 1640790604
+!i10b 1
+!s100 ;:mZc4j1]2b1bVm6Q][`M1
+!s11b T2_]Q42`DE4mnR22ljV7A1
+IH<jF5c`EO>kBbZQU>b2Pl0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu.v
+R32
+R3
+r1
+!s85 0
+31
+!s108 1640790604.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu.v|
+!i113 0
+R5
+R6
+ve203_exu_alu_bjp
+!s110 1640790744
+!i10b 1
+!s100 PoBcg`FCFHhMlcNSVILHD0
+!s11b 2LN=d=f`PWUGjf>ccTO^W3
+I@_7iCFZ0HfMek0az]?Yi^2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_bjp.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_bjp.v
+R32
+R3
+r1
+!s85 0
+31
+!s108 1640790744.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_bjp.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_bjp.v|
+!i113 0
+R5
+R6
+ve203_exu_alu_csrctrl
+!s110 1640790537
+!i10b 1
+!s100 9Jdone>c1A>[BaSSIfnI13
+!s11b 5[SUZk=ZOBXAelWGoKT^;1
+IOQfBFZj=CG1ZOmk0E?Cd^2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_csrctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_csrctrl.v
+R22
+R3
+r1
+!s85 0
+31
+!s108 1640790537.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_csrctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_csrctrl.v|
+!i113 0
+R5
+R6
+ve203_exu_alu_dpath
+!s110 1640790543
+!i10b 1
+!s100 n@UJWH7J=A:P>_L8KNXTN2
+!s11b E_R5jkD8Fn5R_@]NUa5OR2
+Ij8RKoH^7TzBN]T<aFcTib0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_dpath.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_dpath.v
+R22
+R3
+r1
+!s85 0
+31
+!s108 1640790543.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_dpath.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_dpath.v|
+!i113 0
+R5
+R6
+ve203_exu_alu_lsuagu
+!s110 1640790545
+!i10b 1
+!s100 ;]8d;8^aU7TNHXMVYbIzz1
+!s11b BgSkoGECJXnlNYQK]fmW<1
+IV>OaJKd8LjJ@Z>5GCVY1L0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_lsuagu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_lsuagu.v
+R32
+R3
+r1
+!s85 0
+31
+!s108 1640790545.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_lsuagu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_lsuagu.v|
+!i113 0
+R5
+R6
+ve203_exu_alu_rglr
+!s110 1640790629
+!i10b 1
+!s100 E5>n9[EXbfB@oP[F5ij_m3
+!s11b Jn4O5:Shi>>;?J1[ZhFYA3
+Il6AUUGA7U`L`O?IBQ<8B_2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_rglr.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_rglr.v
+R24
+R3
+r1
+!s85 0
+31
+!s108 1640790629.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_rglr.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_alu_rglr.v|
+!i113 0
+R5
+R6
+ve203_exu_branchslv
+!s110 1640767373
+!i10b 1
+!s100 K_a?LTH3FY4UiD7UFXc`B0
+!s11b RJ7n`oL<T0_ManRA^BeIX2
+Icfiagk;QYf6fnOdob=UTe3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_branchslv.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_branchslv.v
+R24
+R3
+r1
+!s85 0
+31
+Z34 !s108 1640767373.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_branchslv.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_branchslv.v|
+!i113 0
+R5
+R6
+ve203_exu_csr
+Z35 !s110 1640767374
+!i10b 1
+!s100 3^fY]S;aE5PVcV;UkSbm42
+!s11b dd1GPWSzY350WLD6fEa;13
+IJgRoH9cMFnQFHS1YTRSgU0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_csr.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_csr.v
+R22
+R3
+r1
+!s85 0
+31
+Z36 !s108 1640767374.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_csr.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_csr.v|
+!i113 0
+R5
+R6
+ve203_exu_decode
+R35
+!i10b 1
+!s100 ;Tl8_EMAi2L@3[;OEebS<2
+!s11b 0WiV]<G4n>;V3JBGIL5k:1
+I263a``N09mfJOLAOQ]OOI0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_decode.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_decode.v
+R22
+R3
+r1
+!s85 0
+31
+R34
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_decode.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_decode.v|
+!i113 0
+R5
+R6
+ve203_exu_disp
+R35
+!i10b 1
+!s100 lWkYOGAl9<D;FJJO_<=Gz3
+!s11b Oed8]a7mbR^XMQO`XzT100
+IX:O=0EXfZdRdGZhIF5mDi0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_disp.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_disp.v
+R22
+R3
+r1
+!s85 0
+31
+R36
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_disp.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_disp.v|
+!i113 0
+R5
+R6
+ve203_exu_excp
+R35
+!i10b 1
+!s100 >7<k7j?<SleSLn]agFa761
+!s11b IRR=ao;WIQM]NI>oGzh=z0
+IA0b:LFHU?0GCMF>e^e5o^2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_excp.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_excp.v
+R22
+R3
+r1
+!s85 0
+31
+R36
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_excp.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_excp.v|
+!i113 0
+R5
+R6
+ve203_exu_longpwbck
+!s110 1640767375
+!i10b 1
+!s100 HCIIlX@h^_1=2LKN2P9>E3
+!s11b DfP8nh^ejPT^eVj]Bohfl0
+IYWN?7jf:AR1>TnJT1VV_o1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_longpwbck.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_longpwbck.v
+R24
+R3
+r1
+!s85 0
+31
+R36
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_longpwbck.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_longpwbck.v|
+!i113 0
+R5
+R6
+ve203_exu_oitf
+!s110 1640771924
+!i10b 1
+!s100 nkfi3=452Aab0_3F@ehMb3
+!s11b QY72?O7Dm_edS>d6hjzTl0
+Ig5zHQo^>5CBFcB3_n8[TW3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_oitf.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_oitf.v
+R22
+R3
+r1
+!s85 0
+31
+!s108 1640771924.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_oitf.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_oitf.v|
+!i113 0
+R5
+R6
+ve203_exu_regfile
+!s110 1640771926
+!i10b 1
+!s100 33o4Kke9@_3j7J?bz^ZLY2
+!s11b kXB`53HgE>UNhEJgiT79E3
+I>b=Gz_OflOSSOEoQHf51T0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_regfile.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_regfile.v
+R25
+R3
+r1
+!s85 0
+31
+!s108 1640771926.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_regfile.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_regfile.v|
+!i113 0
+R5
+R6
+ve203_exu_wbck
+Z37 !s110 1640767376
+!i10b 1
+!s100 F]6b<SZdeM?zWeLzTN_2V1
+!s11b 7iWeLBA@fa>7lzKE7?=;V2
+Ib2<[DkV[cN7B<ng]eJ[m@3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_wbck.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_wbck.v
+R24
+R3
+r1
+!s85 0
+31
+Z38 !s108 1640767376.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_wbck.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_exu_wbck.v|
+!i113 0
+R5
+R6
+ve203_ifu
+R37
+!i10b 1
+!s100 Yee:=0]C6h2og37Vf2nB=2
+!s11b :db:L2f75f2JM28ia9Do]1
+IoaRFKE4bgSV]h_enNKV]O1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu.v
+R22
+R3
+r1
+!s85 0
+31
+R38
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu.v|
+!i113 0
+R5
+R6
+ve203_ifu_ift2icb
+Z39 !s110 1640767377
+!i10b 1
+!s100 `7fa`ETFSU2;hR7gDS;Pn0
+!s11b zlE6=PDe[3:VTTcXOeRNY3
+IU7CKhkmA44X@BNI6S3QFD3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_ift2icb.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_ift2icb.v
+R24
+R3
+r1
+!s85 0
+31
+Z40 !s108 1640767377.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_ift2icb.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_ift2icb.v|
+!i113 0
+R5
+R6
+ve203_ifu_litebpu
+R39
+!i10b 1
+!s100 a^K2MYgcoPdBYPdJb4D5I2
+!s11b ;=aXWK=7Ck:LzV`BSm`>71
+IUR1ZP9@h0>S;Ja=`<`To^3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_litebpu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_litebpu.v
+R25
+R3
+r1
+!s85 0
+31
+R40
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_litebpu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_litebpu.v|
+!i113 0
+R5
+R6
+ve203_ifu_minidec
+R31
+!i10b 1
+!s100 F7RL?S:X50TlR=m`SJ7n^2
+!s11b Z?1bDd24^ADSMj:2NkTZ^1
+I`^L2nS]]N3C4TG;`KKz<83
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_minidec.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_minidec.v
+R25
+R3
+r1
+!s85 0
+31
+Z41 !s108 1640767336.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_minidec.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_ifu_minidec.v|
+!i113 0
+R5
+R6
 ve203_irq_sync
 !s110 1640765278
 !i10b 1
 !s100 _`d9M=^N6UjfDLkeHgGjX0
 !s11b ?>zUPC8CSMoWKkUGTfgCV2
 IRW1<bC:i@KczA;n0zW[h51
-R0
 R1
-R2
+R8
+R33
 8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_irq_sync.v
 Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_irq_sync.v
+R22
 R3
-R4
 r1
 !s85 0
 31
@@ -53,23 +1030,3197 @@ r1
 !i113 0
 R5
 R6
+ve203_itcm_ctrl
+R39
+!i10b 1
+!s100 czOHKgSCJ0Y_<i6;fNa3:2
+!s11b >MkHnmVJnNNB6kKO4^A5V1
+I9J[BR9Ycz5BTj^0Di91fZ0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ctrl.v
+R30
+R3
+r1
+!s85 0
+31
+R40
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ctrl.v|
+!i113 0
+R5
+R6
+ve203_itcm_ram
+Z42 !s110 1640767337
+!i10b 1
+!s100 VNK>5VNoL6><kSDA?NeE?1
+!s11b H6BbX`EjC@fO??U;8zb_N3
+IJef?eFg16zSaV3`izJ_m40
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ram.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ram.v
+R24
+R3
+r1
+!s85 0
+31
+R41
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ram.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_itcm_ram.v|
+!i113 0
+R5
+R6
+ve203_lsu
+Z43 !s110 1640767378
+!i10b 1
+!s100 ZEVeYVbjzZ^d7fPDMQF6I1
+!s11b Z1=gL15OaRW5FI=XZo;:i1
+I<4T8jeJKhGX@FDVVo;8iQ3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu.v
+R25
+R3
+r1
+!s85 0
+31
+R40
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu.v|
+!i113 0
+R5
+R6
+ve203_lsu_ctrl
+R43
+!i10b 1
+!s100 naRRiH3YBa00ZO<]RH06D0
+!s11b ?z:dUo4<>Z:RIIl>MKU7Q2
+IQo9G83<bE<F>`0<gWEd`z2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu_ctrl.v
+R25
+R3
+r1
+!s85 0
+31
+!s108 1640767378.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_lsu_ctrl.v|
+!i113 0
+R5
+R6
+ve203_reset_ctrl
+R42
+!i10b 1
+!s100 ggbod_6Ek`MJEUQCP_z3`0
+!s11b 5Ec_07ZiVanf7RaMm5hRA0
+IE<HNn_5JDRFXE9Ck]c]6m3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_reset_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_reset_ctrl.v
+R22
+R3
+r1
+!s85 0
+31
+Z44 !s108 1640767337.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_reset_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_reset_ctrl.v|
+!i113 0
+R5
+R6
+ve203_soc_top
+!s110 1640767398
+!i10b 1
+!s100 `9e1F[`R>BVi9?PdPC>821
+!s11b 38fMZfRAC9AhQ0o=g`kTk2
+IUQ1E46o_;[N?NZigVm>_o1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\soc\e203_soc_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\soc\e203_soc_top.v
+Z45 L0 19
+R3
+r1
+!s85 0
+31
+!s108 1640767398.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\soc\e203_soc_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\soc\e203_soc_top.v|
+!i113 0
+R5
+R6
+ve203_srams
+R42
+!i10b 1
+!s100 UH4O;[IMh2<?Xn2hMjE452
+!s11b S@kYb70G1eDVUEUFeUi@02
+InYW`9m>Q^zEdH66z<c7<22
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_srams.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_srams.v
+R24
+R3
+r1
+!s85 0
+31
+R44
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\config.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_srams.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\core\e203_srams.v|
+!i113 0
+R5
+R6
+vexe_mem_register
+R0
+!i10b 1
+!s100 oP:G[Bl6GF1][D:eKzZSH1
+!s11b LcFjL:N>hgVFVE1`goolN3
+I^FBH]HDjS0IT66n@5PfWn3
+R1
+R2
+w1625836380
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\exe_mem_register.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\exe_mem_register.v
+R20
+R3
+r1
+!s85 0
+31
+R4
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\exe_mem_register.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\exe_mem_register.v|
+!i113 0
+R5
+R6
+vEXMEM
+!s110 1641869344
+!i10b 1
+!s100 cY0=]?^R7:NkX<2CAE9^73
+!s11b A^bc]cTdzk0fk1MBDTPO81
+I3]B_ST9R[VcM^@ofT04Ag0
+R1
+R19
+w1625754009
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\EXMEM.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\EXMEM.v
+R10
+R3
+r1
+!s85 0
+31
+!s108 1641869344.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\EXMEM.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\EXMEM.v|
+!i113 0
+R5
+R6
+n@e@x@m@e@m
+vFowardUnit
+!s110 1641904232
+!i10b 1
+!s100 lKRMScAP8CZ1K:[6F;W232
+!s11b @TJU[O<e2RKDQDkg^8fJC0
+IP6L`c:4i_JDA@BYdWR1CP1
+R1
+R19
+w1626187118
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\FowardUnit.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\FowardUnit.v
+R16
+R3
+r1
+!s85 0
+31
+!s108 1641904232.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\FowardUnit.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\FowardUnit.v|
+!i113 0
+R5
+R6
+n@foward@unit
+vfpga_tb_top
+!s110 1640767334
+!i10b 1
+!s100 RXi7HUBYJTX@Fj=Fo0mlL3
+!s11b N7:7RGnR>hcbED=[ZBZ9F3
+I`IozDM4j]dHYebV`4]8@Z2
+R1
+R8
+R14
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\fpga_tb_top\fpga_tb_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\fpga_tb_top\fpga_tb_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R15
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\fpga_tb_top\fpga_tb_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\fpga\fpga_tb_top\fpga_tb_top.v|
+!i113 0
+R5
+R6
+vHazardDetector
+!s110 1641904233
+!i10b 1
+!s100 766LLbDch3ODOz5?FYLCF3
+!s11b oW`AanmmJ<nbUl68V:^`60
+I:jO@?:R<Y]hYcAG:5YLcb2
+R1
+R19
+w1626187114
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\HazardDetector.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\HazardDetector.v
+L0 23
+R3
+r1
+!s85 0
+31
+!s108 1641904233.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\HazardDetector.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\HazardDetector.v|
+!i113 0
+R5
+R6
+n@hazard@detector
+vi2c_master_bit_ctrl
+Z46 !s110 1640767382
+!i10b 1
+!s100 IBfXOF>mfSm?ifYfNBW=a0
+!s11b MhYcd6DI51ZkNnO8Fb>?c3
+IAPlaWoT8UiSVL3WaMc`IU2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_bit_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_bit_ctrl.v
+L0 147
+R3
+r1
+!s85 0
+31
+Z47 !s108 1640767382.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_bit_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_bit_ctrl.v|
+!i113 0
+R5
+R6
+vi2c_master_byte_ctrl
+R46
+!i10b 1
+!s100 CSCVa>RmWc@NRTAfKnBA23
+!s11b XF^?NQ]>i_;VPgF03V^Ic2
+IbgkMIeU@9V=NJcNboeo531
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_byte_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_byte_ctrl.v
+L0 93
+R3
+r1
+!s85 0
+31
+R47
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_byte_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_byte_ctrl.v|
+!i113 0
+R5
+R6
+vi2c_master_top
+Z48 !s110 1640767383
+!i10b 1
+!s100 C<i8L8Df0ek]:`O4IU@8z1
+!s11b A>kN;7D6L1MzLe=@[9QGe1
+IWSDfX[dAg<XZD@PEPj<:Q3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_top.v
+L0 97
+R3
+r1
+!s85 0
+31
+Z49 !s108 1640767383.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_defines.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\i2c_master_top.v|
+!i113 0
+R5
+R6
+vid_exe_register
+!s110 1641869637
+!i10b 1
+!s100 BDK0jY`E>dlMMk?]HMPhW1
+!s11b 7c[43LP6EE?9AkHN]SLIk2
+IlQ09fKcZ_0E;_:JO?05[O3
+R1
+R2
+w1626068461
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\id_exe_register.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\id_exe_register.v
+R20
+R3
+r1
+!s85 0
+31
+R18
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\id_exe_register.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\id_exe_register.v|
+!i113 0
+R5
+R6
+vIFID
+!s110 1641868493
+!i10b 1
+!s100 K0fz:5Bj>YiFVDiL<8JVX0
+!s11b FUg@WH^PK_HfYQ1CHd4UO0
+Izn:N2ieZPl;E2R>P?k@c02
+R1
+R19
+w1626187175
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\IFID.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\IFID.v
+R16
+R3
+r1
+!s85 0
+31
+!s108 1641868493.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\IFID.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\IFID.v|
+!i113 0
+R5
+R6
+n@i@f@i@d
+vimem
+Z50 !s110 1642077191
+!i10b 1
+!s100 cjFzMIiXnZXk@SPkn:VMb1
+!s11b 3dgc6P2<BIQaO`@ZTbHLn3
+I`=I9HV]kI?ga^AiUdOLCT2
+R1
+R8
+w1641904427
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\imem.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\imem.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z51 !s108 1642077191.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\imem.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\imem.v|
+!i113 0
+R5
+R6
+vinsmem
+!s110 1642042720
+!i10b 1
+!s100 hFiDHh`EO_czB^=0_5Z8i3
+!s11b YnhIRDZ=`F98G@Z<::[1n3
+If0zaEG7PjjMhT^Ia4BA`h0
+R1
+R8
+w1642042720
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\insmem.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\insmem.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1642042720.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\insmem.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\insmem.v|
+!i113 0
+R5
+R6
+vInst_ROM
+!s110 1641869635
+!i10b 1
+!s100 ]bEcZQCGgIgjg=GTFXfE03
+!s11b ^d8K]ElnDTkSi`3C=NX>12
+Ii2Ude`BIXe_aMWmKPbUlV3
+R1
+R2
+w1625652075
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\Inst_ROM.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\Inst_ROM.v
+R20
+R3
+r1
+!s85 0
+31
+!s108 1641869635.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\Inst_ROM.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\Inst_ROM.v|
+!i113 0
+R5
+R6
+n@inst_@r@o@m
+vInstMem
+!s110 1641868488
+!i10b 1
+!s100 FbQ693n7ko:H[FnJLhKim2
+!s11b WEREoJn>=ohje1ndiYg?X1
+IhiM>OVHE[A:2<1Y5h8J`=1
+R1
+R19
+w1626187169
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\InstMem.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\InstMem.v
+R16
+R3
+r1
+!s85 0
+31
+!s108 1641868488.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\InstMem.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\InstMem.v|
+!i113 0
+R5
+R6
+n@inst@mem
+vjaddr_gen
+!s110 1641891623
+!i10b 1
+!s100 @Zb@WKh<18az4L?G0UjP70
+!s11b LZMm9gz?Cc;kgTYB:OgkX3
+I3QkkUlm<9U6MoI7z`2P8G1
+R1
+de:/研一下/高体实验/高体实验刘广发
+w1627668794
+8e:\研一下\高体实验\高体实验刘广发\高体实验\core\jaddr_gen.v
+Fe:\研一下\高体实验\高体实验刘广发\高体实验\core\jaddr_gen.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1641891623.000000
+!s107 e:\研一下\高体实验\高体实验刘广发\高体实验\core\jaddr_gen.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验刘广发\高体实验\core\jaddr_gen.v|
+!i113 0
+R5
+R6
+vjhazard
+R50
+!i10b 1
+!s100 d0OD=d[_45Q^7UcizO>Re2
+!s11b nb1I30fZ@0:LXL6J4oOiT1
+IPM>cZ:U_Fd^7HL6C36?h10
+R1
+R8
+w1641907363
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\jhazard.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\jhazard.v
+L0 2
+R3
+r1
+!s85 0
+31
+R51
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\jhazard.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\jhazard.v|
+!i113 0
+R5
+R6
+vlsu
+!s110 1642077192
+!i10b 1
+!s100 Gz4bTeGo9g4o9G2N6e2V^3
+!s11b hd8FZQa>Sk_?XYc:M_gj10
+I:fgG@JLzA_m4OTmTfg:<f2
+R1
+R8
+w1627656869
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\lsu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\lsu.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1642077192.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\lsu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\lsu.v|
+!i113 0
+R5
+R6
+vmem_wb_register
+!s110 1641869634
+!i10b 1
+!s100 IoTkegFa<09^:<7JJiTCL3
+!s11b ]4_h]WL:;=5[EhWN57S2X2
+IXWSGR_>CTQgH9@S0N0k=K0
+R1
+R2
+w1625836653
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\mem_wb_register.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\mem_wb_register.v
+R20
+R3
+r1
+!s85 0
+31
+!s108 1641869634.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\mem_wb_register.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\mem_wb_register.v|
+!i113 0
+R5
+R6
+vmemory
+!s110 1641869631
+!i10b 1
+!s100 =J@l8<XBW6eI;lzJgzbnW1
+!s11b cedb=<6L>>N?]2Xc4J1[_2
+IDc2kQcP`i3mU;D0ZYn^;11
+R1
+R2
+w1625646942
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\memory.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\memory.v
+R20
+R3
+r1
+!s85 0
+31
+!s108 1641869631.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\memory.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\memory.v|
+!i113 0
+R5
+R6
+vMEMWB
+!s110 1641866967
+!i10b 1
+!s100 [3e]negCVLDhol_GzdzBB3
+!s11b YNNEaX`lfcf5I:1;XadhH3
+I6_dN4BoHhzYDG=P^e3P5d1
+R1
+R19
+w1626187144
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\MEMWB.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\MEMWB.v
+R16
+R3
+r1
+!s85 0
+31
+!s108 1641866967.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\MEMWB.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\MEMWB.v|
+!i113 0
+R5
+R6
+n@m@e@m@w@b
+vmux1_2_1
+Z52 !s110 1641869633
+!i10b 1
+!s100 @3z1<KbUDP=5Ca3c][zc53
+!s11b U^GDK?gggH2<_9J;DMnCC3
+IcPhLCTTEF?=5@VT7@aWU=3
+R1
+R2
+w1558704922
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\mux1_2_1.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\mux1_2_1.v
+R20
+R3
+r1
+!s85 0
+31
+Z53 !s108 1641869633.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\mux1_2_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\mux1_2_1.v|
+!i113 0
+R5
+R6
+vmux32_2_1
+R52
+!i10b 1
+!s100 ZJ<aA^K=O@7cD:Ll`hf8Z2
+!s11b h_=m=T7N5b74^T9hNTobi1
+I1;=^@N>3MFDBGUDJbJm263
+R1
+R2
+w1557923208
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_2_1.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_2_1.v
+R20
+R3
+r1
+!s85 0
+31
+R53
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_2_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_2_1.v|
+!i113 0
+R5
+R6
+vmux32_4_1
+R52
+!i10b 1
+!s100 ?zghfBAlBOVXDF>lo4z>i2
+!s11b cJe93]HJYSPg`mfhhK7>]2
+I=PM]JT0_kiof^0aKbFlBk0
+R1
+R2
+w1624931364
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_4_1.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_4_1.v
+R20
+R3
+r1
+!s85 0
+31
+R53
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_4_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\mux32_4_1.v|
+!i113 0
+R5
+R6
+vmux5_2_1
+Z54 !s110 1641869632
+!i10b 1
+!s100 D3oTfMGG2Z0zQ?AX@5lDO2
+!s11b 2laVRE_BdT`STS@09T?GZ2
+IB8Y:JS3:63Wk7bj89mVKl3
+R1
+R2
+w1557921110
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\mux5_2_1.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\mux5_2_1.v
+R20
+R3
+r1
+!s85 0
+31
+Z55 !s108 1641869632.000000
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\mux5_2_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\mux5_2_1.v|
+!i113 0
+R5
+R6
+vnpc
+!s110 1641916856
+!i10b 1
+!s100 8a7>c74KFdiU^A98I_KN?2
+!s11b 8oLTkPzLYIgakm0YWAdDS2
+IU1WLKiR:WM_4df92gkVjJ1
+R1
+R8
+w1641916855
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\nxt_pc.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\nxt_pc.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1641916856.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\nxt_pc.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\nxt_pc.v|
+!i113 0
+R5
+R6
+vpc
+Z56 !s110 1642077193
+!i10b 1
+!s100 _in_5g_8d4g7oBk83mNZZ2
+!s11b 2XPjMZP`TkhScEd3YcAa62
+I0DkS@nH`QEKE<G?e_Jn@c3
+R1
+R8
+w1627663081
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\pc.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\pc.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z57 !s108 1642077193.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\pc.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\pc.v|
+!i113 0
+R5
+R6
+vPC
+!s110 1641917194
+!i10b 1
+!s100 UhcjZaXC?9I9_;D6DN0_F1
+!s11b Z5D5m^=m4[DE><jEGRo`51
+I9hHbVl__QG6GGWO9WBdTa3
+R1
+R19
+w1626187140
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC.v
+R20
+R3
+r1
+!s85 0
+31
+!s108 1641917194.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC.v|
+!i113 0
+R5
+R6
+n@p@c
+vPC4Adder
+!s110 1641867321
+!i10b 1
+!s100 YkOHmjkMM0AdIzNk4j7F`2
+!s11b ]<CDW`bMDGOdPdQSJHdUl2
+IaeOHd66>4N<2IFLJ88EC^0
+R1
+R19
+w1641867321
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC4Adder.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC4Adder.v
+R10
+R3
+r1
+!s85 0
+31
+!s108 1641867321.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC4Adder.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PC4Adder.v|
+!i113 0
+R5
+R6
+n@p@c4@adder
+vpcadder
+!s110 1641906689
+!i10b 1
+!s100 1GY:QlfCDzZS:fRdidHYP2
+!s11b k;W_HjiGbO<7UP[UD;:;33
+I328iVoh:NH0jPi0P4MXk80
+R1
+R8
+w1641906689
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\pcadder4.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\pcadder4.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1641906689.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\pcadder4.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\pcadder4.v|
+!i113 0
+R5
+R6
+vPCImmAdder
+!s110 1641827594
+!i10b 1
+!s100 U6X:iIG8jNGfBAVk4]BNX3
+!s11b 0ic1oHMm^bMTanh6>`LjS1
+IHTi_mPCVMNZHG]b^@9zch2
+R1
+R19
+w1626187208
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCImmAdder.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCImmAdder.v
+R10
+R3
+r1
+!s85 0
+31
+!s108 1641827594.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCImmAdder.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCImmAdder.v|
+!i113 0
+R5
+R6
+n@p@c@imm@adder
+vPCselector
+!s110 1641868447
+!i10b 1
+!s100 QCK94g3CQf[Il`_^91eVg0
+!s11b U4Hg^Bc[<Ec@bk=5gE^1M0
+Il0ZMdBP8ODRbkVGSMQ3`K1
+R1
+R19
+w1626187193
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCselector.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCselector.v
+R16
+R3
+r1
+!s85 0
+31
+!s108 1641868447.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCselector.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PCselector.v|
+!i113 0
+R5
+R6
+n@p@cselector
+vPipelineCtr
+!s110 1641868452
+!i10b 1
+!s100 HO]@G@ZbbSJCmn6=]2efH1
+!s11b Wb^1eiN^OiYPdX^R`ic?R2
+IdM?mI0d:9KjGCfEMGS78V1
+R1
+R19
+w1626187220
+8c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PipelineCtr.v
+Fc:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PipelineCtr.v
+R16
+R3
+r1
+!s85 0
+31
+!s108 1641868452.000000
+!s107 c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PipelineCtr.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\PipelineCtr.v|
+!i113 0
+R5
+R6
+n@pipeline@ctr
+vprogram_counter
+R54
+!i10b 1
+!s100 JhR683M:E1mWnR7?hDhl_0
+!s11b 3WiRE;dnCYFhMWUKg:4GT1
+I3`OOmgPz9d<>`Pj=XL6h31
+R1
+R2
+w1624789844
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\program_counter.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\program_counter.v
+R20
+R3
+r1
+!s85 0
+31
+R55
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\program_counter.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\program_counter.v|
+!i113 0
+R5
+R6
+vregfile
+R56
+!i10b 1
+!s100 l9=:_=lPU9Zh7>8_00<Pf1
+!s11b _mQKF`d>z^@nXdz7fM<kg3
+IXg1Tj;K1II:7PSgaXR9mE3
+R1
+R8
+w1627648361
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\regfile.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\regfile.v
+L0 2
+R3
+r1
+!s85 0
+31
+R57
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\regfile.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\regfile.v|
+!i113 0
+R5
+R6
+vRegfile
+R54
+!i10b 1
+!s100 g567Dea;?n4PYESg9Q_OP3
+!s11b LdQK=<]d56_nME6XX]goJ2
+IVJnMi;P?5b`en`>MizJSd1
+R1
+R2
+w1625491435
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\Regfile.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\Regfile.v
+R20
+R3
+r1
+!s85 0
+31
+R55
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\Regfile.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\Regfile.v|
+!i113 0
+R5
+R6
+n@regfile
+vrv32i
+!s110 1641867194
+!i10b 1
+!s100 nlaii;ziSnQke0FHWCl533
+R12
+I@9XbdOTM[0SVGaaj;P?f@3
+R1
+R8
+w1641867194
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\rv32I.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\rv32I.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1641867194.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\define.v|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\rv32I.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\rv-cpu\rv-cpu\rv32I.v|
+!i113 0
+R5
+R6
+vsirv_1cyc_sram_ctrl
+Z58 !s110 1640767338
+!i10b 1
+!s100 0@;z;LL7]>OJjNnBo7<Z?2
+!s11b nmgPXYdDkNo2h^U?A1EXj1
+I]^43RhGHhPdhP<`P^EV472
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_1cyc_sram_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_1cyc_sram_ctrl.v
+R22
+R3
+r1
+!s85 0
+31
+Z59 !s108 1640767338.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_1cyc_sram_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_1cyc_sram_ctrl.v|
+!i113 0
+R5
+R6
+vsirv_aon
+Z60 !s110 1640767384
+!i10b 1
+!s100 TomX6T8oa<Y1CYdB[g7032
+!s11b DDZlT@in=3V1o?_GC98ik2
+I^5>Tg^feY]=QB:UiljEi22
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon.v
+R10
+R3
+r1
+!s85 0
+31
+R49
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon.v|
+!i113 0
+R5
+R6
+vsirv_aon_lclkgen_regs
+Z61 !s110 1640767341
+!i10b 1
+!s100 IBC0_FK0;A:IIz1lj499j1
+!s11b `XBYWdFzidNcAmAiG81?M3
+I:9N]>9hcSY<IkEa2I82TU3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_lclkgen_regs.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_lclkgen_regs.v
+R25
+R3
+r1
+!s85 0
+31
+Z62 !s108 1640767341.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_lclkgen_regs.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_lclkgen_regs.v|
+!i113 0
+R5
+R6
+vsirv_aon_porrst
+Z63 !s110 1640767342
+!i10b 1
+!s100 0]<SOS3hcHMA]^5kS4ZWN1
+!s11b MV8>=gMz7abM_4gP@TDPg3
+I0l3Gh<Sl^4VQ;1Ngfc9Om3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_porrst.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_porrst.v
+R25
+R3
+r1
+!s85 0
+31
+Z64 !s108 1640767342.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_porrst.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_porrst.v|
+!i113 0
+R5
+R6
+vsirv_aon_top
+R60
+!i10b 1
+!s100 9R:TiBJNF6W]z53zMz]TE0
+!s11b ckGl?]L:WmXO;5>@Y@Db<1
+I0cJB5_Z:JmG61[^Vl`^]A2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_top.v
+Z65 L0 27
+R3
+r1
+!s85 0
+31
+Z66 !s108 1640767384.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_top.v|
+!i113 0
+R5
+R6
+vsirv_aon_wrapper
+R60
+!i10b 1
+!s100 d^J:MY9Mk7;fb`:C2FC]c2
+!s11b HV39_zSiG=?7<3CK=X[_b1
+I3P^D_51f;?[jjHd]mfgKR0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_wrapper.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_wrapper.v
+R10
+R3
+r1
+!s85 0
+31
+R66
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_wrapper.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_aon_wrapper.v|
+!i113 0
+R5
+R6
+vsirv_AsyncResetReg
+Z67 !s110 1640767339
+!i10b 1
+!s100 8fhY7MoA]XjC=G23D2OO31
+!s11b Z=e^4dCebVjhRSm`B1OZ`3
+Ih:An?oEeCC6GZ?3DJi=3Q1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetReg.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetReg.v
+R45
+R3
+r1
+!s85 0
+31
+Z68 !s108 1640767339.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetReg.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetReg.v|
+!i113 0
+R5
+R6
+nsirv_@async@reset@reg
+vsirv_AsyncResetRegVec
+R67
+!i10b 1
+!s100 WH>cWH4oJ8iVS3HTil23:3
+!s11b XUz?B;^3HXDiU3jKl>k;c2
+I`ZOA08YcS2_dFkFTSkXgX1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec.v
+R45
+R3
+r1
+!s85 0
+31
+R68
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec.v|
+!i113 0
+R5
+R6
+nsirv_@async@reset@reg@vec
+vsirv_AsyncResetRegVec_1
+R26
+!i10b 1
+!s100 <F^K`IB2<BKLzh0=HG7;B3
+!s11b j[YmW`A776o=>4T2Z?C5h0
+I7kkc_Wk<k_Wne^8fCDPG>2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_1.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_1.v
+R45
+R3
+r1
+!s85 0
+31
+R27
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_1.v|
+!i113 0
+R5
+R6
+nsirv_@async@reset@reg@vec_1
+vsirv_AsyncResetRegVec_129
+R48
+!i10b 1
+!s100 H<m@H`EN@_K1?P>X0UAcC1
+!s11b Z0fbnADl8Ik:<NH3:oFSf1
+Il@4j_[6fo9KnTIeB@HP:_2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_129.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_129.v
+R45
+R3
+r1
+!s85 0
+31
+R49
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_129.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_129.v|
+!i113 0
+R5
+R6
+nsirv_@async@reset@reg@vec_129
+vsirv_AsyncResetRegVec_36
+R26
+!i10b 1
+!s100 ]79iD8mnR[0k>Z;<<hCE[3
+!s11b D2DhneoUU^2QdWQN=@Fl@2
+IzEQU`4Bn2E[?G90OD[B5M3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_36.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_36.v
+R45
+R3
+r1
+!s85 0
+31
+R27
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_36.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_36.v|
+!i113 0
+R5
+R6
+nsirv_@async@reset@reg@vec_36
+vsirv_AsyncResetRegVec_67
+R48
+!i10b 1
+!s100 =9D?XCcHKNP?dLO;HM58=3
+!s11b HaZIJ3WaF5T_nZndNT[>83
+IVPeIO>QgLN[GdmMG:ea_A3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_67.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_67.v
+R45
+R3
+r1
+!s85 0
+31
+R49
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_67.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_AsyncResetRegVec_67.v|
+!i113 0
+R5
+R6
+nsirv_@async@reset@reg@vec_67
+vsirv_clint
+R60
+!i10b 1
+!s100 FWRK7>17U>WCgKm<EYlm_1
+!s11b >V0Q>VaBV64MV<:jQ2ozC0
+Ii;P>D0VKQbQ<zZBHPN>hV0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint.v
+R10
+R3
+r1
+!s85 0
+31
+R66
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint.v|
+!i113 0
+R5
+R6
+vsirv_clint_top
+Z69 !s110 1640767385
+!i10b 1
+!s100 ^8GVmC6Q01HVb=CiIHF]k1
+!s11b 572U<hE^igWn0hOOM3[[=0
+I7IL2E0PB0Cb>i58a<lhJS2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint_top.v
+R25
+R3
+r1
+!s85 0
+31
+R66
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_clint_top.v|
+!i113 0
+R5
+R6
+vsirv_debug_ram
+!s110 1640790783
+!i10b 1
+!s100 NN1_i:?k`58ZnPBCTfQVQ0
+!s11b BISNN]XL[Ieo7Oi^fbob01
+I=L@TY5?DYb0C5<OWmla452
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_ram.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_ram.v
+R25
+R3
+r1
+!s85 0
+31
+!s108 1640790783.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_ram.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_ram.v|
+!i113 0
+R5
+R6
+vsirv_debug_rom
+!s110 1640790784
+!i10b 1
+!s100 @I1hG;@:gU25d55fL76Wh3
+!s11b HZ9=c:WM7PnMl[6b<<_Ze2
+IBWGfWF96nMkY323HdBY[80
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_rom.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_rom.v
+R25
+R3
+r1
+!s85 0
+31
+!s108 1640790784.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_rom.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_debug_rom.v|
+!i113 0
+R5
+R6
+vsirv_DeglitchShiftRegister
+R61
+!i10b 1
+!s100 B4iaH7n3PPTDdfYHZFnSF0
+!s11b Nz^lJa=Jo<C:Z0z1O`2zl1
+IaAn?=<9hY?B4HY`Y>e2ed3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_DeglitchShiftRegister.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_DeglitchShiftRegister.v
+R45
+R3
+r1
+!s85 0
+31
+R62
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_DeglitchShiftRegister.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_DeglitchShiftRegister.v|
+!i113 0
+R5
+R6
+nsirv_@deglitch@shift@register
+vsirv_expl_apb_slv
+R63
+!i10b 1
+!s100 A8fGHaP_n;z96g4J_^_Z41
+!s11b 13hEcW^HiVd47Hi0<g6Y<1
+InDkL6ni5dMTRiY9I;?kY22
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_apb_slv.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_apb_slv.v
+R65
+R3
+r1
+!s85 0
+31
+R64
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_apb_slv.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_apb_slv.v|
+!i113 0
+R5
+R6
+vsirv_expl_axi_slv
+R63
+!i10b 1
+!s100 e`^K5;@eE]OW>=?H9GnhG1
+!s11b ddIdSGK1dG^9^A4Gc3Fo83
+Iem3U5D^n]=D:=?Q3kAeE41
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_axi_slv.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_axi_slv.v
+R65
+R3
+r1
+!s85 0
+31
+R64
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_axi_slv.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_expl_axi_slv.v|
+!i113 0
+R5
+R6
+vsirv_flash_qspi
+R69
+!i10b 1
+!s100 =d4:Z]GRlPf1<;S>BQ7FM2
+!s11b @S6Of4CMYb56l29Ve^N0D1
+Ia6WF76KOQEE6e5zQFbQkR1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi.v
+R10
+R3
+r1
+!s85 0
+31
+Z70 !s108 1640767385.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi.v|
+!i113 0
+R5
+R6
+vsirv_flash_qspi_top
+R69
+!i10b 1
+!s100 EH01onLKG=^m@NQJgAQc`0
+!s11b 1;NmET]8M^kE^?;LUgk640
+I5_FQ=eAN_f8jLL`QWTW_;1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi_top.v
+R25
+R3
+r1
+!s85 0
+31
+R70
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_flash_qspi_top.v|
+!i113 0
+R5
+R6
+vsirv_gnrl_axi_buffer
+Z71 !s110 1640767381
+!i10b 1
+!s100 :3UelJYBze?8F``Kf`LY:1
+!s11b KE6QAm8G>b>O@aH6bhbE^3
+IiTQZ;bfE=C54B2RI4ddma2
+R1
+R8
+R21
+Z72 8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_icbs.v
+Z73 Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_icbs.v
+L0 1468
+R3
+r1
+!s85 0
+31
+Z74 !s108 1640767381.000000
+Z75 !s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_icbs.v|
+Z76 !s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_icbs.v|
+!i113 0
+R5
+R6
+vsirv_gnrl_bypbuf
+Z77 !s110 1640767380
+!i10b 1
+!s100 cB5?l<9IcRQV_?FR^9fF`2
+!s11b D<AWf3@KOSNbJ2@e0^NWd1
+ICd9]M=UZoPOJP>XaL5@0H2
+R1
+R8
+R21
+Z78 8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_bufs.v
+Z79 Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_bufs.v
+L0 306
+R3
+r1
+!s85 0
+31
+Z80 !s108 1640767380.000000
+Z81 !s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_bufs.v|
+Z82 !s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_bufs.v|
+!i113 0
+R5
+R6
+vsirv_gnrl_cdc_rx
+R77
+!i10b 1
+!s100 :Nn0JM;OY<^LCdioh789Y3
+!s11b C[ZXP<[;:Ta^MN@Ge22Ja3
+I^=o@GEGdl:g`obj2gUln?3
+R1
+R8
+R21
+R78
+R79
+L0 142
+R3
+r1
+!s85 0
+31
+R80
+R81
+R82
+!i113 0
+R5
+R6
+vsirv_gnrl_cdc_tx
+R77
+!i10b 1
+!s100 P:;Qh`<NH`U9SnlLR6O3m3
+!s11b hek;^KOQFO69@UTVf23U52
+I]8=<Qf351S^dA>=6KzYL71
+R1
+R8
+R21
+R78
+R79
+L0 223
+R3
+r1
+!s85 0
+31
+R80
+R81
+R82
+!i113 0
+R5
+R6
+vsirv_gnrl_dffl
+R71
+!i10b 1
+!s100 _Z1PIbOG?OR9HV=AZT^SI2
+!s11b BXj?K>N5<AOBLDQ=HP[=Q3
+I^?V?<fZjDOiiV2L>K7g2^0
+R1
+R8
+R21
+Z83 8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_dffs.v
+Z84 Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_dffs.v
+L0 133
+R3
+r1
+!s85 0
+31
+R74
+Z85 !s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_dffs.v|
+Z86 !s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_dffs.v|
+!i113 0
+R5
+R6
+vsirv_gnrl_dfflr
+R71
+!i10b 1
+!s100 aOQNOAgkLP@ViBc6GYjk?0
+!s11b L^ajoGN?SIzl7=VDN3K7G3
+I9E8>^GmV9WHbL6X^Q7IZe1
+R1
+R8
+R21
+R83
+R84
+L0 87
+R3
+r1
+!s85 0
+31
+R74
+R85
+R86
+!i113 0
+R5
+R6
+vsirv_gnrl_dfflrs
+R71
+!i10b 1
+!s100 Z;ijZ6RiBD8Ln7`:SG:;91
+!s11b G1UGc??ziPR<Jg9f4n3>80
+I3U?0cnCa2?moVk:m^aI5I3
+R1
+R8
+R21
+R83
+R84
+L0 40
+R3
+r1
+!s85 0
+31
+R74
+R85
+R86
+!i113 0
+R5
+R6
+vsirv_gnrl_dffr
+R71
+!i10b 1
+!s100 >VFQ6X=BnGTN84z89SGUa0
+!s11b :ceAa6:GbA39Z:9DZGaSa1
+Ie`dG`_gnQaIzdg_YaZH@M2
+R1
+R8
+R21
+R83
+R84
+L0 209
+R3
+r1
+!s85 0
+31
+R74
+R85
+R86
+!i113 0
+R5
+R6
+vsirv_gnrl_dffrs
+R71
+!i10b 1
+!s100 I`V1_U9PfkRiic6IO_Cj_1
+!s11b 9>h>TBz9L50kff;aBnZ?_0
+IdYBdzZ^Ti55ba0zV9<T?`0
+R1
+R8
+R21
+R83
+R84
+L0 177
+R3
+r1
+!s85 0
+31
+R74
+R85
+R86
+!i113 0
+R5
+R6
+vsirv_gnrl_fifo
+R77
+!i10b 1
+!s100 PS<B:9OB>]o^E5Xhm=aE=1
+!s11b H]Fd4n?87mWngR2zJ]]fj1
+IOba]14Pl@;e0<9HEDJnfK1
+R1
+R8
+R21
+R78
+R79
+L0 381
+R3
+r1
+!s85 0
+31
+R80
+R81
+R82
+!i113 0
+R5
+R6
+vsirv_gnrl_icb2apb
+R71
+!i10b 1
+!s100 >jKJUC>jdg_WQ`W;JEV2Z1
+!s11b H9<BXF;J0XJ1<jIJRRgmV1
+II23YQ81XiSG7m]gL9`R=>2
+R1
+R8
+R21
+R72
+R73
+L0 1385
+R3
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 0
+R5
+R6
+vsirv_gnrl_icb2axi
+R71
+!i10b 1
+!s100 [ZkR6>J8zSX^28^S`CUG[0
+!s11b 48A2_9fl:@;jU_m0B;e6W1
+I31DJCBz@HP1lMaLl;Z;@i1
+R1
+R8
+R21
+R72
+R73
+L0 1007
+R3
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 0
+R5
+R6
+vsirv_gnrl_icb32towishb8
+R71
+!i10b 1
+!s100 BYVJ97WzlBzQici2<E`5X2
+!s11b GAlK>cQZQCgbHP;kGlGn]2
+Iz^kl>I37`5Il76mHFF6M<0
+R1
+R8
+R21
+R72
+R73
+L0 1300
+R3
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 0
+R5
+R6
+vsirv_gnrl_icb_arbt
+R71
+!i10b 1
+!s100 HeUWd=4nf1eV?oY?5kaOE0
+!s11b e8;1KD^H^gCzNDnL1@3;33
+I2DQ[1l1_Oh<1j]b<7ladM0
+R1
+R8
+R21
+R72
+R73
+L0 37
+R3
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 0
+R5
+R6
+vsirv_gnrl_icb_buffer
+R71
+!i10b 1
+!s100 dPENlO`8c<nlBOS^A9eHR1
+!s11b 3=KWagUTXkc9Y9mSVS2In0
+IWM3`l?4QQE5E1H6cmMfCF3
+R1
+R8
+R21
+R72
+R73
+L0 351
+R3
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 0
+R5
+R6
+vsirv_gnrl_icb_n2w
+R71
+!i10b 1
+!s100 M`aLYNUI4[n<ee::=lQYf1
+!s11b WkbFQI[8:=fK`W:BfO@TP3
+IICEcUANH0l>=9e=[JeY8R3
+R1
+R8
+R21
+R72
+R73
+L0 503
+R3
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 0
+R5
+R6
+vsirv_gnrl_icb_splt
+R71
+!i10b 1
+!s100 NRhQZzL1iNQR]8Z[MeO1k1
+!s11b Ia`HQhb7Fd9GEI_kf<=D82
+I8CgCWZj;PVKmMQ4KfB<Am0
+R1
+R8
+R21
+R72
+R73
+L0 648
+R3
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 0
+R5
+R6
+vsirv_gnrl_pipe_stage
+R77
+!i10b 1
+!s100 CInnAIBX>]XZAIfL[mcn;3
+!s11b T`S0DUBJ<TBMNOF^PJMWh3
+I9>fhMU;W9i@ld_ikNRj5z2
+R1
+R8
+R21
+R78
+R79
+R25
+R3
+r1
+!s85 0
+31
+R80
+R81
+R82
+!i113 0
+R5
+R6
+vsirv_gnrl_ram
+R58
+!i10b 1
+!s100 <3`ZGSCgf7M80iA6EWE4?1
+!s11b ZWKMQ[YUf<4IN_zRNcdc]0
+IBXe7cQP]m8[d1GOL2@[CX0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_ram.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_ram.v
+R25
+R3
+r1
+!s85 0
+31
+R59
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_ram.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_gnrl_ram.v|
+!i113 0
+R5
+R6
+vsirv_gnrl_sync
+R77
+!i10b 1
+!s100 5^W77cTM2;]jGiUD^czRR2
+!s11b c6D6bh9nHZN=OnfmNa;GF0
+IM^8Ol`@j@^n^4Jd`h6hf>0
+R1
+R8
+R21
+R78
+R79
+L0 99
+R3
+r1
+!s85 0
+31
+R80
+R81
+R82
+!i113 0
+R5
+R6
+vsirv_gpio
+Z87 !s110 1640767386
+!i10b 1
+!s100 IfL;>Ne@UV=TInh93d6[@3
+!s11b =CH6KhZbL3aK>gm4i7IVI0
+IYHIl5ag@61::mo?X_fTnd0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio.v
+R45
+R3
+r1
+!s85 0
+31
+R70
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio.v|
+!i113 0
+R5
+R6
+vsirv_gpio_top
+R87
+!i10b 1
+!s100 L`e`VOOchjKbK2Y:9fPH^0
+!s11b lLRm[h=Q?Nc7N`DQzdFae1
+Ijn1kOPodOll1M:CCaH9L<2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio_top.v
+R25
+R3
+r1
+!s85 0
+31
+Z88 !s108 1640767386.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_gpio_top.v|
+!i113 0
+R5
+R6
+vsirv_hclkgen_regs
+R87
+!i10b 1
+!s100 7oVc:^i@@V7IY[IO0imE60
+!s11b G5c@PfEeAV?KXAP=8:B;T2
+IDTGhXU<n9]bOm]<>X_?NM0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_hclkgen_regs.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_hclkgen_regs.v
+R25
+R3
+r1
+!s85 0
+31
+R88
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_hclkgen_regs.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_hclkgen_regs.v|
+!i113 0
+R5
+R6
+vsirv_icb1to16_bus
+R77
+!i10b 1
+!s100 :jO]O@3iii1^F6fmcd=ae2
+!s11b dJN_B=U8c^X@UbV>c9XA32
+IT1CDf7Z8ASeCYR>ClEc@a0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to16_bus.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to16_bus.v
+R25
+R3
+r1
+!s85 0
+31
+R80
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to16_bus.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to16_bus.v|
+!i113 0
+R5
+R6
+vsirv_icb1to2_bus
+R77
+!i10b 1
+!s100 :jeoRI@5lZ0nOkD2TlYDF0
+!s11b Tm6JiZRVEU[:McI?DcGU03
+ID[1ADjDLnL[d0TX;ZBX<^1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to2_bus.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to2_bus.v
+R22
+R3
+r1
+!s85 0
+31
+R80
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to2_bus.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to2_bus.v|
+!i113 0
+R5
+R6
+vsirv_icb1to8_bus
+R77
+!i10b 1
+!s100 CPcll6bKangM5EbbD74dW1
+!s11b h6`e4I0KgBD7XN8V=:O[n2
+IHRM1W06]5JJ@LSii>0nV[1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to8_bus.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to8_bus.v
+R22
+R3
+r1
+!s85 0
+31
+R80
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to8_bus.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\fab\sirv_icb1to8_bus.v|
+!i113 0
+R5
+R6
+vsirv_jtag_dtm
+!s110 1641804311
+!i10b 1
+!s100 o^OOUmH9C8WcC3XkH;U;Z3
+!s11b kEC75Ee897mn24g??4`a`3
+I1;;DDWjk`ZaOOm267Hk?>2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_jtag_dtm.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_jtag_dtm.v
+R20
+R3
+r1
+!s85 0
+31
+!s108 1641804311.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_jtag_dtm.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\debug\sirv_jtag_dtm.v|
+!i113 0
+R5
+R6
+vsirv_jtaggpioport
+R28
+!i10b 1
+!s100 S6Y0Z23;VdQ>L=dQ:G^K;1
+!s11b 8o:iL3mm[3CdQ2^i<0Tei1
+IdEPQ;nedoG8o70B5FX33U0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_jtaggpioport.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_jtaggpioport.v
+R10
+R3
+r1
+!s85 0
+31
+R29
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_jtaggpioport.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_jtaggpioport.v|
+!i113 0
+R5
+R6
+vsirv_LevelGateway
+R61
+!i10b 1
+!s100 IR^kPj3;F@lf4TQkFQ9281
+!s11b 5dOUUeO0ZeU`O1iU2ldke2
+IK7H>?Sd5ilWbZ2eZPdz4R1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_LevelGateway.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_LevelGateway.v
+R45
+R3
+r1
+!s85 0
+31
+R62
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_LevelGateway.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_LevelGateway.v|
+!i113 0
+R5
+R6
+nsirv_@level@gateway
+vsirv_mrom
+R46
+!i10b 1
+!s100 j1f6nij8VfZ8@fFTD<mO21
+!s11b _;ObcU8^A^YL62:=iSK5U2
+ICHOEMNVTollA2l97c9D[K2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom.v
+R25
+R3
+r1
+!s85 0
+31
+R74
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom.v|
+!i113 0
+R5
+R6
+vsirv_mrom_top
+R67
+!i10b 1
+!s100 T=EiKJ^d?kVczOV[;<9_R2
+!s11b ZPdUk<;:6UZ<knA2j50j23
+Il>Fj2N5U?RT1L7f`RE12_2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom_top.v
+R25
+R3
+r1
+!s85 0
+31
+R59
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\mems\sirv_mrom_top.v|
+!i113 0
+R5
+R6
+vsirv_otp_top
+R28
+!i10b 1
+!s100 7?TDYdZg5HZXklb=<RIcj2
+!s11b ZNTz>V;?UO]hGlezVl0Fl0
+ImfIGM0job13UHUSCHJTAa0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_otp_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_otp_top.v
+R25
+R3
+r1
+!s85 0
+31
+R29
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_otp_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_otp_top.v|
+!i113 0
+R5
+R6
+vsirv_plic_man
+R87
+!i10b 1
+!s100 CkzElTh:na50@1:>9Z=nh3
+!s11b 1i=14eQji8=8Nc2?glKM90
+I4GPhgFNK5ig2hB<e^]?Z:3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_man.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_man.v
+R25
+R3
+r1
+!s85 0
+31
+R88
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_man.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_man.v|
+!i113 0
+R5
+R6
+vsirv_plic_top
+R87
+!i10b 1
+!s100 KPZCE?1lbM6Qg]ghME@Xe0
+!s11b o6>k0JJXN2;DJG=<D^G?m3
+IMZ[3>a]a3::6S1m3PXj@M0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_top.v
+R25
+R3
+r1
+!s85 0
+31
+R88
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_plic_top.v|
+!i113 0
+R5
+R6
+vsirv_pmu
+Z89 !s110 1640767387
+!i10b 1
+!s100 A26JS3R7;4f?6J;7YKDDQ3
+!s11b @71h^@N;0<jIdfb`Q;WS?2
+II1K;R7_Ve3<Ra<89LzG`e1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu.v
+R10
+R3
+r1
+!s85 0
+31
+Z90 !s108 1640767387.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu.v|
+!i113 0
+R5
+R6
+vsirv_pmu_core
+R89
+!i10b 1
+!s100 3eI7mzn^W_h`P2PzIciVj3
+!s11b kdUlQ]5X<BRChIH;c`KcL2
+IlD[=SE2cLAYS]lJ`BWWg]0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu_core.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu_core.v
+R10
+R3
+r1
+!s85 0
+31
+R90
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu_core.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pmu_core.v|
+!i113 0
+R5
+R6
+vsirv_pwm16
+R89
+!i10b 1
+!s100 z_0Xl9dICH<7A^X`Z2jUD3
+!s11b Dob@5I74UOGRljW1@2FW[2
+Ih_JjDaWOhH^V704gLAR<i1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16.v
+R10
+R3
+r1
+!s85 0
+31
+R90
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16.v|
+!i113 0
+R5
+R6
+vsirv_pwm16_core
+R89
+!i10b 1
+!s100 HfUFATR3o>7_ZlXL50iJU2
+!s11b 0eFbLFfocP`agKW=Sh^Xj2
+I08<zLYFU41U_=N:Pg[5MJ3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_core.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_core.v
+R10
+R3
+r1
+!s85 0
+31
+R90
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_core.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_core.v|
+!i113 0
+R5
+R6
+vsirv_pwm16_top
+R89
+!i10b 1
+!s100 98[CO]Sd=U^YYjddQTcX?2
+!s11b _nQNb1Z^]`InYYPSEf^<40
+I14GJZVA83:b4g^;j>LH[c0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_top.v
+R25
+R3
+r1
+!s85 0
+31
+R90
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm16_top.v|
+!i113 0
+R5
+R6
+vsirv_pwm8
+Z91 !s110 1640767388
+!i10b 1
+!s100 9KCaSRj^ImfZJ>@]e[hYX2
+!s11b ^=RR6;B_5e_SVjKG5hImK2
+II_>XU97R42k^AT`4MAmNA1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8.v
+R10
+R3
+r1
+!s85 0
+31
+Z92 !s108 1640767388.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8.v|
+!i113 0
+R5
+R6
+vsirv_pwm8_core
+R91
+!i10b 1
+!s100 L?:[C0YD5@8_b;bU[BJ<g2
+!s11b 1mXl?J[<X9GE7`mZUTL4a0
+IMeCMfiFFAnFkX0KoM[7Z;0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_core.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_core.v
+R10
+R3
+r1
+!s85 0
+31
+R92
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_core.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_core.v|
+!i113 0
+R5
+R6
+vsirv_pwm8_top
+R91
+!i10b 1
+!s100 Z>ScXT]g>Td5l0[S]Po5j3
+!s11b N]b<gdNTdE6ZPbXc3zH<Y1
+IJ9mo`0aN@3GzzQmjDOHIF0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_top.v
+R25
+R3
+r1
+!s85 0
+31
+R92
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwm8_top.v|
+!i113 0
+R5
+R6
+vsirv_pwmgpioport
+Z93 !s110 1640767344
+!i10b 1
+!s100 S<IlCN8i2z0JiYSOzNIIi1
+!s11b jgk@96ZAc4OOVIY30@@o43
+I>3G4F_h5ilgFhh]N0ZEQQ2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwmgpioport.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwmgpioport.v
+R45
+R3
+r1
+!s85 0
+31
+R29
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwmgpioport.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_pwmgpioport.v|
+!i113 0
+R5
+R6
+vsirv_qspi_1cs
+Z94 !s110 1640767389
+!i10b 1
+!s100 GMH0e@Qg6B0kJnHFhZ^hF1
+!s11b lDeTooo;^F?6eSIU7_jdU1
+I5_j61Q>IM0h15g9O5dEo11
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs.v
+R10
+R3
+r1
+!s85 0
+31
+Z95 !s108 1640767389.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs.v|
+!i113 0
+R5
+R6
+vsirv_qspi_1cs_top
+R94
+!i10b 1
+!s100 =EaVL@gin_U^Y6AjaI_8Q2
+!s11b SF@31]<]SLFo@:bXEE3^B0
+I=do1SeZVgJciMAA`W=hNL0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs_top.v
+R25
+R3
+r1
+!s85 0
+31
+R95
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_1cs_top.v|
+!i113 0
+R5
+R6
+vsirv_qspi_4cs
+R94
+!i10b 1
+!s100 GdFai>1Fz?I<^^UkTj`GS1
+!s11b ^:I0c]]jia3AQ5WbV>TeC2
+IboN:T2fF0Z4aK>6^OCnm61
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs.v
+R10
+R3
+r1
+!s85 0
+31
+R95
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs.v|
+!i113 0
+R5
+R6
+vsirv_qspi_4cs_top
+Z96 !s110 1640767390
+!i10b 1
+!s100 ZkF<__R4IJbC5;[7HRHDO0
+!s11b lomI::4mgBamePC_E9=oQ1
+I`0]aA?nFN7e8Wa_:>L<k^0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs_top.v
+R25
+R3
+r1
+!s85 0
+31
+Z97 !s108 1640767390.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_4cs_top.v|
+!i113 0
+R5
+R6
+vsirv_qspi_arbiter
+R96
+!i10b 1
+!s100 ;PG;GQ3?ebDC>Km9RK3?93
+!s11b ^bgNJK4Ha:IeRd=<cmU_j1
+If;7ESe:Uz>3ce<9B2?DgB2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_arbiter.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_arbiter.v
+R10
+R3
+r1
+!s85 0
+31
+R97
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_arbiter.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_arbiter.v|
+!i113 0
+R5
+R6
+vsirv_qspi_fifo
+R96
+!i10b 1
+!s100 DaIdc:HDJLQeV@;U`Xj0D3
+!s11b DB;UL2^QldPZoH@MW?NUT1
+I=L]@>9mAnbR1ah2A=O@AM1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_fifo.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_fifo.v
+R10
+R3
+r1
+!s85 0
+31
+R97
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_fifo.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_fifo.v|
+!i113 0
+R5
+R6
+vsirv_qspi_flashmap
+Z98 !s110 1640767394
+!i10b 1
+!s100 bKoU5ZDTPN3L]lLBQGhL=2
+!s11b H>[_73lFg?6lSM_0P5]Z_3
+IW@GnGeh_Y5Rl0j2KCVV^E0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spi_flashmap.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spi_flashmap.v
+R10
+R3
+r1
+!s85 0
+31
+Z99 !s108 1640767394.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spi_flashmap.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spi_flashmap.v|
+!i113 0
+R5
+R6
+vsirv_qspi_media
+Z100 !s110 1640767391
+!i10b 1
+!s100 RL3`O5>=X;InK1bg:<JL;0
+!s11b Vd0e<5EYY4VCOZeV?Xd2H0
+IlFP[^=i]PDMEOEihJdkGk2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media.v
+R10
+R3
+r1
+!s85 0
+31
+R97
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media.v|
+!i113 0
+R5
+R6
+vsirv_qspi_media_1
+R100
+!i10b 1
+!s100 Ao0nM:mnF;V1VA[X`>DCW1
+!s11b Z<^iJY[C5JXXCz5ImPA@`3
+I:7RD^U5121PV?]c5ROK;:3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_1.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_1.v
+R10
+R3
+r1
+!s85 0
+31
+Z101 !s108 1640767391.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_1.v|
+!i113 0
+R5
+R6
+vsirv_qspi_media_2
+R100
+!i10b 1
+!s100 GCiIlK9THCdb5N:Rh0aE32
+!s11b ePoklS4TkEd19HaD8;azg1
+IahQBkTOVE^Blzmaz5GJo70
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_2.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_2.v
+R10
+R3
+r1
+!s85 0
+31
+R101
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_2.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_media_2.v|
+!i113 0
+R5
+R6
+vsirv_qspi_physical
+Z102 !s110 1640767392
+!i10b 1
+!s100 j3UC:T6Km0G0^YCe7YzIB3
+!s11b 55nNd:aAjYjolb55hKI@X0
+IR0Xjh?Je851Ci2c2E<kTY2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical.v
+R10
+R3
+r1
+!s85 0
+31
+Z103 !s108 1640767392.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical.v|
+!i113 0
+R5
+R6
+vsirv_qspi_physical_1
+R102
+!i10b 1
+!s100 BI7;K<9WO]WSIPK8K0hZK1
+!s11b XI4W>9WUBCCX?D;>bCa2A0
+IL85?`E=D3_L]7BJG;8aPZ0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_1.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_1.v
+R10
+R3
+r1
+!s85 0
+31
+R103
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_1.v|
+!i113 0
+R5
+R6
+vsirv_qspi_physical_2
+Z104 !s110 1640767393
+!i10b 1
+!s100 _hJJ^c<JS=M<N?Wbz4dLb2
+!s11b 2`R77R?AI1Fn3929MkGjz0
+I;B[ikGA=FWaz9VBYQ57no0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_2.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_2.v
+R10
+R3
+r1
+!s85 0
+31
+R103
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_2.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_qspi_physical_2.v|
+!i113 0
+R5
+R6
+vsirv_queue
+R104
+!i10b 1
+!s100 ;efmRa`QMXKchB=XE<<?l2
+!s11b F?>jX`YRB2BdHZDL6OH<o2
+IlOB``M^;0OzO7n15ZJ0S72
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue.v
+R10
+R3
+r1
+!s85 0
+31
+Z105 !s108 1640767393.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue.v|
+!i113 0
+R5
+R6
+vsirv_queue_1
+R93
+!i10b 1
+!s100 MVenE6XXc8aNA`YkJQ2W<2
+!s11b QXG6iG19eedd3>6?Tk;Uh2
+IGii[]0kWMCK3SD^d4GjQl2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue_1.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue_1.v
+R45
+R3
+r1
+!s85 0
+31
+Z106 !s108 1640767344.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_queue_1.v|
+!i113 0
+R5
+R6
+vsirv_repeater_6
+R104
+!i10b 1
+!s100 Sg^2]1XkR0M?E``=D7OZ@2
+!s11b CBDXK<kEZSgo7P?>lz_]U2
+I56cSCOM<UZ@F=7K3;]bJR2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_repeater_6.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_repeater_6.v
+R10
+R3
+r1
+!s85 0
+31
+R105
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_repeater_6.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_repeater_6.v|
+!i113 0
+R5
+R6
+vsirv_ResetCatchAndSync
+R61
+!i10b 1
+!s100 ;lY9jYkPF6MLRO_bYGJl12
+!s11b cZB53C@LPFJIZQilkU_l`3
+IaWQjS8TIS@LN2jg[d?O;=3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync.v
+R45
+R3
+r1
+!s85 0
+31
+R62
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync.v|
+!i113 0
+R5
+R6
+nsirv_@reset@catch@and@sync
+vsirv_ResetCatchAndSync_2
+R61
+!i10b 1
+!s100 FB?FgAKWJcZOMI<QFNaST3
+!s11b @YEC4M0ao6z68QWE@LAma0
+I24eW7zET@L^14G6=R8nf_1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync_2.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync_2.v
+R45
+R3
+r1
+!s85 0
+31
+R62
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync_2.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_ResetCatchAndSync_2.v|
+!i113 0
+R5
+R6
+nsirv_@reset@catch@and@sync_2
+vsirv_rtc
+R98
+!i10b 1
+!s100 I9dZ]=50`Y@O6JV;KGa;<3
+!s11b bZ6:Rgk;^R>EOHeMJmGS_2
+I9UQTo5<o5_dA1gLGPX02k2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_rtc.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_rtc.v
+R10
+R3
+r1
+!s85 0
+31
+R99
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_rtc.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_rtc.v|
+!i113 0
+R5
+R6
+vsirv_sim_ram
+R58
+!i10b 1
+!s100 18]Q]UcdGnTWoMfd=HG?B2
+!s11b Co5H5nfhLDMnb3Y^3a9J=3
+I9Uz^oUWfCTDIjO3^=R9791
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sim_ram.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sim_ram.v
+R65
+R3
+r1
+!s85 0
+31
+R59
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sim_ram.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sim_ram.v|
+!i113 0
+R5
+R6
+vsirv_spigpioport
+Z107 !s110 1640767395
+!i10b 1
+!s100 ]zdnO89Ve[Qn@IQSmIh:a3
+!s11b PWEFXm^MBj@XQ9Ne>6Sgh0
+I^_6Yz4`bniE>Gigm_meah2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport.v
+R45
+R3
+r1
+!s85 0
+31
+Z108 !s108 1640767395.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport.v|
+!i113 0
+R5
+R6
+vsirv_spigpioport_1
+R107
+!i10b 1
+!s100 U5JjjFQlWLQhAz16lK>=f2
+!s11b ANZA72<`?BKhGnKofAZkM2
+I2>>Dh2aAFAHR7Z]DjEV`^3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_1.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_1.v
+R45
+R3
+r1
+!s85 0
+31
+R108
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_1.v|
+!i113 0
+R5
+R6
+vsirv_spigpioport_2
+R107
+!i10b 1
+!s100 QN1lWiDCWoR;A9SgVkFF61
+!s11b BjoY[hdL_Tz3Z^TVXRYgz2
+I5kb^I8i9^QQ7iPTAd33_@2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_2.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_2.v
+R10
+R3
+r1
+!s85 0
+31
+R108
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_2.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_spigpioport_2.v|
+!i113 0
+R5
+R6
+vsirv_sram_icb_ctrl
+R71
+!i10b 1
+!s100 IBXl2]^4lh=V>[c_X0l@V3
+!s11b A;kXh9^`i7]T9B=TkHM<D3
+ISd8KOE[A1aQYmh^?OSX`i3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sram_icb_ctrl.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sram_icb_ctrl.v
+R22
+R3
+r1
+!s85 0
+31
+R74
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sram_icb_ctrl.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\general\sirv_sram_icb_ctrl.v|
+!i113 0
+R5
+R6
+vsirv_tl_repeater_5
+Z109 !s110 1640767396
+!i10b 1
+!s100 YNL?jDA2nORK[O@D7IN`J1
+!s11b LNQfM0HdlPh4dGc;Mi][J0
+IGBZbcSTQGVgzCKVSngDEo2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tl_repeater_5.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tl_repeater_5.v
+R10
+R3
+r1
+!s85 0
+31
+R108
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tl_repeater_5.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tl_repeater_5.v|
+!i113 0
+R5
+R6
+vsirv_tlfragmenter_qspi_1
+R109
+!i10b 1
+!s100 U;NYgXOh83YKD7<XRb7`_3
+!s11b H7hNk7[zn^eBjWlb::kPW3
+IG`LMJbfj?YF[?cbElzjCl0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlfragmenter_qspi_1.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlfragmenter_qspi_1.v
+R10
+R3
+r1
+!s85 0
+31
+Z110 !s108 1640767396.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlfragmenter_qspi_1.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlfragmenter_qspi_1.v|
+!i113 0
+R5
+R6
+vsirv_tlwidthwidget_qspi
+R109
+!i10b 1
+!s100 Ge3R_=EE`imbGHF?LdC8>2
+!s11b 3ZhchN=Z8RnRK@A4:>4ML1
+IZ5KPA7@maX[GCnGNn;M<J2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlwidthwidget_qspi.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlwidthwidget_qspi.v
+R10
+R3
+r1
+!s85 0
+31
+R110
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlwidthwidget_qspi.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_tlwidthwidget_qspi.v|
+!i113 0
+R5
+R6
+vsirv_uart
+R109
+!i10b 1
+!s100 L7@Rf=>`OR]JaiJ?mMNjG0
+!s11b icedKMB4ZJJDUTa9W0dzF2
+I>MHzWb<AJV;UIWiek:SS;2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart.v
+R10
+R3
+r1
+!s85 0
+31
+R110
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart.v|
+!i113 0
+R5
+R6
+vsirv_uart_top
+R109
+!i10b 1
+!s100 DJ?dEe>YMR9BIBz>0;?L53
+!s11b hW^I>]o0ZX]LKH971H74S3
+IA^;9jzS;4B[Dk?gP:Y7EB2
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart_top.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart_top.v
+R25
+R3
+r1
+!s85 0
+31
+R110
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart_top.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uart_top.v|
+!i113 0
+R5
+R6
+vsirv_uartgpioport
+R93
+!i10b 1
+!s100 9A@dfQfEj=CL8@=0`MhgF0
+!s11b ^?`dP9kWd03671nB08E;;1
+IAmnS3CU^UfZoU5Y]LNE<;1
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartgpioport.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartgpioport.v
+R45
+R3
+r1
+!s85 0
+31
+R106
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartgpioport.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartgpioport.v|
+!i113 0
+R5
+R6
+vsirv_uartrx
+Z111 !s110 1640767397
+!i10b 1
+!s100 A[hzm;RaW^J9858LU]iFc0
+!s11b KG3hdDzYU4?9:^69=AT7`0
+I6UOf9aS@LSREQRJnNR9L@0
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartrx.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartrx.v
+R45
+R3
+r1
+!s85 0
+31
+Z112 !s108 1640767397.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartrx.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uartrx.v|
+!i113 0
+R5
+R6
+vsirv_uarttx
+R111
+!i10b 1
+!s100 fPegJXeOD7WTF>f<=nzk93
+!s11b AdfKUV@R_MzdS0V:edRdn2
+IXzC?_TME:82I@=iR6o8OP3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uarttx.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uarttx.v
+R45
+R3
+r1
+!s85 0
+31
+R112
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uarttx.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_uarttx.v|
+!i113 0
+R5
+R6
+vsirv_wdog
+R111
+!i10b 1
+!s100 _0MEHN^nM4Vdc0;VVd`ef0
+!s11b k?:6iYDIEA=HOA8OX8M5N2
+IJi202jFYS[cg4gH_^3P?m3
+R1
+R8
+R21
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_wdog.v
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_wdog.v
+R10
+R3
+r1
+!s85 0
+31
+R112
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_wdog.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\e200_opensource-master (3)\e200_opensource-master\rtl\e203\perips\sirv_wdog.v|
+!i113 0
+R5
+R6
+vt_cpu
+R54
+!i10b 1
+!s100 ?g`=4cABG8DhH7W[l=je73
+!s11b ?b@OP>bgh?A0da<HnP;zc0
+I881_UFS0lULVW6_oaj^UM0
+R1
+R2
+w1625642926
+8e:\研一下\高体实验\高体实验zj？\高体实验\code\t_cpu.v
+Fe:\研一下\高体实验\高体实验zj？\高体实验\code\t_cpu.v
+L0 25
+R3
+r1
+!s85 0
+31
+R55
+!s107 e:\研一下\高体实验\高体实验zj？\高体实验\code\t_cpu.v|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\高体实验zj？\高体实验\code\t_cpu.v|
+!i113 0
+R5
+R6
+vtb
+Z113 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1642077194
+!i10b 1
+!s100 B:5Fg1>6GM_RCjhBhWJ042
+!s11b PCik:S5oCL^?a26[Q_e`81
+I6P8hOY]XL?HknmSTFJdbM3
+R1
+S1
+R8
+w1642060303
+8c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\tb.sv
+Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\tb.sv
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1642077194.000000
+!s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\tb.sv|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\高体实验\core\tb.sv|
+!i113 0
+R5
+R6
+vtb_RV32
+R113
+!s110 1641821545
+!i10b 1
+!s100 hmJ1GDO7adMRSm=I:IJ??3
+!s11b SXdC5zlS0Ya;49n8?HZ=i1
+Ihi:E`nW5ak;X6?Q9MlNEG2
+R1
+S1
+de:/研一下/高体实验/郑康组/计算机体系结构实验作业五-江铖+郑康+胡雅航/RV32I
+w1626187224
+8e:\研一下\高体实验\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\tb_RV32.sv
+Fe:\研一下\高体实验\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\tb_RV32.sv
+R20
+R3
+r1
+!s85 0
+31
+!s108 1641821545.000000
+!s107 e:\研一下\高体实验\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\macros.v|e:\研一下\高体实验\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\tb_RV32.sv|
+!s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|e:\研一下\高体实验\郑康组\计算机体系结构实验作业五-江铖+郑康+胡雅航\RV32I\src\tb_RV32.sv|
+!i113 0
+R5
+R6
+ntb_@r@v32
 vtest
-!s110 1640765265
+!s110 1640767346
 !i10b 1
 !s100 PlDPnh3XHoWLGJ<R:?mid2
 !s11b X9l8J8U@c64@6Bk0<K?:63
 I3T?MPbYmfTTnbGHkF=]Lb1
-R0
 R1
-w1640536376
+R8
+w1640767311
 8c:\Users\Jeacy\Desktop\riscv-cpu_1221\test\123.v
 Fc:\Users\Jeacy\Desktop\riscv-cpu_1221\test\123.v
 L0 1
-R4
+R3
 r1
 !s85 0
 31
-!s108 1640765265.000000
+!s108 1640767346.000000
 !s107 c:\Users\Jeacy\Desktop\riscv-cpu_1221\test\123.v|
 !s90 -nologo|-work|C:\Users\Jeacy\Desktop\riscv-cpu_1221\rtl\rv_cpu_test|c:\Users\Jeacy\Desktop\riscv-cpu_1221\test\123.v|
 !i113 0
