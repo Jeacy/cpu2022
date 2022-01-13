@@ -62,6 +62,7 @@ wire [31:0] csr_wdata = ({32{csrrw }} & op_rs1            ) |
 
 
 assign  csr_rdata = 32'b0;
+
 //({32{exe_csr_addr == 12'h001}} & fflags   )  |
 //                    ({32{exe_csr_addr == 12'h002}} & frm      )  |
 //                    ({32{exe_csr_addr == 12'h003}} & fcsr     )  |
@@ -156,16 +157,16 @@ always@(*) begin
     if(mret) begin
 //        mstatus[`MSTATUS_MIE] = mstatus[`MSTATUS_MPIE];
 //        mstatus[`MSTATUS_MPIE] = 1;
-        is_trap = 0;
-	    is_mret = 1;
+        is_trap <= 0;
+	    is_mret <= 1;
     end
     else if (ecall) begin
 //	    mcause	= 11;	
 //	    mstatus[`MSTATUS_MPIE] = mstatus[`MSTATUS_MIE]; 
 //	    mstatus[`MSTATUS_MIE] = 0;
 //	    mtval	=	exe_inst;
-	    is_trap = 1;
-	    is_mret = 0;
+	    is_trap <= 1;
+	    is_mret <= 0;
     end
    end
     
